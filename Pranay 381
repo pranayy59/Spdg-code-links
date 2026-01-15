@@ -29,4 +29,5 @@ f)  Dynamic Decisions
 Decide how to organize students and event data efficiently.
 Decide which data types to use for marks, scores, and grades.
 Decide where to use typedef, enum, or union.*/
+}
 
